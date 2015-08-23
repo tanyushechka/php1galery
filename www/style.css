@@ -1,0 +1,23 @@
+#wrapper {
+    margin: 0 auto;
+
+}
+
+
+.redlabel  {
+    padding-left: 20px;
+    color: red;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.image {
+    width: 60px;
+    position: relative;
+    float: left;
+}
+
+table td, th {
+    padding-left: 10px;
+    border: 1px solid black;
+}
